@@ -14,4 +14,4 @@ Note: You can find sql file in database folder
 
 
 LICENSE :
-----This was reserved by TITI captain 
+----This was reserved by Pazzo 
