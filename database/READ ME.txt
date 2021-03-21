@@ -1,0 +1,8 @@
+DATABASE NAME  is dbgadget
+
+so that it doesn't matter for that differ to 
+the name of project is the choice of developer
+but you can change it while you get the license 
+of it NB: be careful to change that name 
+	the many pages it can't be work
+	properly while you mis anything
